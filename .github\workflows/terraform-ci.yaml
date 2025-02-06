@@ -3,7 +3,7 @@ name: Testing Github Environments
 on:
   push:
     branches:
-      - dev
+      - feature/dev
       - uat
                                                
 jobs:
